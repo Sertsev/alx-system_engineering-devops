@@ -1,0 +1,1 @@
+This is a mandatory file in all the ALX projects
