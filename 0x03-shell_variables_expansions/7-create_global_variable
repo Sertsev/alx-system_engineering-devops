@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 export HOLBERTON="Betty"
+=======
+export HOLBERTON=Betty
+
+>>>>>>> b67d023b2c6ccccd7285b57f0340490c11689af7
