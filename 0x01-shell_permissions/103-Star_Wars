@@ -1,0 +1,2 @@
+#!/bin/bash
+traceroute 216.81.59.173
